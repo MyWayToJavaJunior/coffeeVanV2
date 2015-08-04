@@ -3,7 +3,6 @@ package kz.e16traning.coffeevan.storage;
 import kz.e16traning.coffeevan.exceptions.SetVolumeStorageException;
 import kz.e16traning.coffeevan.goods.IGoods;
 
-import java.util.AbstractList;
 
 /**
  * Реализация хранилища, на основе
